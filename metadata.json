@@ -1,0 +1,6 @@
+{
+  "name": "Bespoke Boutique",
+  "description": "A premium, modern, and beautifully crafted boutique e-commerce storefront showcasing luxury apparel, accessories, and curated style collections with an interactive styling guide, product filter, and full shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
